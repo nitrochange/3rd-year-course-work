@@ -6,3 +6,8 @@ Bank text corpus is on /dataset/*
 # Other Notebooks
 
 # References
+
+
+Alexander Romanov
+Renat Nurtdinov
+HSE FCS
