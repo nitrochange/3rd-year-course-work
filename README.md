@@ -8,6 +8,15 @@ Bank text corpus is on /dataset/*
 # References
 
 
+
+
+
+
+
+
+
 Alexander Romanov
+
 Renat Nurtdinov
+
 HSE FCS
