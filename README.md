@@ -30,8 +30,8 @@ Bank text corpus is on /dataset/*
 
 
 
-
-
+# Authors
+Advisor: Dmitry Ilvovsky
 
 Alexander Romanov
 
