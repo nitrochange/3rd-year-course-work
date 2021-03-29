@@ -1,6 +1,6 @@
 This study is completed as a 3rd year course project.
 
-Bank text corpus is on /dataset/*
+Bank text corpus is on /corpus/*
 
 # Our study
 [Google spreadsheet with GPT tests results](https://docs.google.com/spreadsheets/d/1qo_dyBgijADRM6W53eNLSP8sVqGLfyRgwHAxj4VGvdI/edit#gid=0)
