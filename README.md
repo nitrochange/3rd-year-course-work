@@ -1,11 +1,14 @@
 This study is completed as a 3rd year course project.
 
-![alt text](https://github.com/nitrochange/finetuning-ruGPT3/blob/main/coursework.jpg)
-
 
 Bank text corpus is on /corpus/*
 
+# Demo
+
 # Our study
+
+![alt text](https://github.com/nitrochange/finetuning-ruGPT3/blob/main/coursework.jpg)
+
 [Google spreadsheet with GPT tests results](https://docs.google.com/spreadsheets/d/1qo_dyBgijADRM6W53eNLSP8sVqGLfyRgwHAxj4VGvdI/edit#gid=0)
 
 [(colab) GPT-2 finetuning and generation with translator](https://colab.research.google.com/drive/1nhrtXwNU1vFsVPn25zf21CbqUkaU7sn6)
@@ -16,12 +19,19 @@ Bank text corpus is on /corpus/*
 
 [(colab) word2vec finetuning](https://colab.research.google.com/drive/1kDwHubiey3t5YeS0dymH1aB4ptwEvKB1#scrollTo=hlRjLHmlChSV)
 
+[(colab) MultiBERT embeddings(with cosine distance)](https://colab.research.google.com/drive/1yJZdb-qZSqlf3waG3sKd-Bg9U3guTvZ2#scrollTo=B8wx1O_sTwl0)
+
+[(colab) BigARTM(LDA)](https://colab.research.google.com/drive/1QCKMaCaqh5mV5I3Q0bFD9NwAjT3Vd6f-)
+
+# Text
+https://www.overleaf.com/read/fhdsshdgnpps
+
 # References
 [Transformers and its applications (github)](https://github.com/huggingface/transformers)
 
-[ruGPT-3 finetuning (colab)](https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES)
+[(colab)ruGPT-3 finetuning](https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES)
 
-[ruGPT-3 finetuning 2 (colab)](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Finetune_RuGPTs_with_HF.ipynb#scrollTo=aZ-4Kav28cH0)
+[(colab)ruGPT-3 finetuning 2](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Finetune_RuGPTs_with_HF.ipynb#scrollTo=aZ-4Kav28cH0)
 
 [GPT-2 finetuning](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce)
 
@@ -31,13 +41,24 @@ Bank text corpus is on /corpus/*
 
 [НКРЯ - National corpus of the Russian language](https://ruscorpora.ru/new/)
 
+[(colab) DeepPavlov: Transfer Learning with BERT](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_2_DeepPavlov_BERT_transfer_learning.ipynb)
+
+# Literature references
+
+[overview BERT](https://arxiv.org/pdf/2002.12327.pdf)
+[ARAGPT2: Pre-Trained Transformer](https://arxiv.org/pdf/2012.15520.pdf)
+[BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805.pdf)
+[Distributed Representations of Words and Phrases
+and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+[Обучение модели естественного языка с BERT и Tensorflow](https://habr.com/ru/company/sberdevices/blog/527576/)
+
 
 
 # Authors
 Advisor: Dmitry Ilvovsky
 
+students:
 Alexander Romanov
-
 Renat Nurtdinov
 
 HSE FCS
