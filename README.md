@@ -1,5 +1,8 @@
 This study is completed as a 3rd year course project.
 
+![alt text](https://github.com/nitrochange/finetuning-ruGPT3/blob/main/coursework.jpg)
+
+
 Bank text corpus is on /corpus/*
 
 # Our study
