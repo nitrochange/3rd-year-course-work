@@ -46,10 +46,14 @@ https://www.overleaf.com/read/fhdsshdgnpps
 # Literature references
 
 [overview BERT](https://arxiv.org/pdf/2002.12327.pdf)
+
 [ARAGPT2: Pre-Trained Transformer](https://arxiv.org/pdf/2012.15520.pdf)
+
 [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805.pdf)
+
 [Distributed Representations of Words and Phrases
 and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
+
 [Обучение модели естественного языка с BERT и Tensorflow](https://habr.com/ru/company/sberdevices/blog/527576/)
 
 
