@@ -23,17 +23,17 @@ Bank text corpus is on /corpus/*
 
 [(colab) BigARTM(LDA)](https://colab.research.google.com/drive/1QCKMaCaqh5mV5I3Q0bFD9NwAjT3Vd6f-)
 
-# Text
-https://www.overleaf.com/read/fhdsshdgnpps
+# Report
+
+#Google doc to be placed here
 
 # References
+
 [Transformers and its applications (github)](https://github.com/huggingface/transformers)
 
-[(colab)ruGPT-3 finetuning](https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES)
-
-[(colab)ruGPT-3 finetuning 2](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Finetune_RuGPTs_with_HF.ipynb#scrollTo=aZ-4Kav28cH0)
-
 [GPT-2 finetuning](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce)
+
+[ARAGPT2: Pre-Trained Transformer](https://arxiv.org/pdf/2012.15520.pdf)
 
 [word2vec training](https://sysblok.ru/knowhow/obuchaem-word2vec-praktikum-po-sozdaniju-vektornyh-modelej-jazyka/)
 
@@ -41,28 +41,26 @@ https://www.overleaf.com/read/fhdsshdgnpps
 
 [НКРЯ - National corpus of the Russian language](https://ruscorpora.ru/new/)
 
-[(colab) DeepPavlov: Transfer Learning with BERT](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_2_DeepPavlov_BERT_transfer_learning.ipynb)
-
-# Literature references
-
-[overview BERT](https://arxiv.org/pdf/2002.12327.pdf)
-
-[ARAGPT2: Pre-Trained Transformer](https://arxiv.org/pdf/2012.15520.pdf)
+[BERT overview](https://arxiv.org/pdf/2002.12327.pdf)
 
 [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/pdf/1810.04805.pdf)
 
 [Distributed Representations of Words and Phrases
 and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf)
 
-[Обучение модели естественного языка с BERT и Tensorflow](https://habr.com/ru/company/sberdevices/blog/527576/)
+[Training a natural language model with BERT and Tensorflow](https://habr.com/ru/company/sberdevices/blog/527576/)
 
+[(colab) DeepPavlov: Transfer Learning with BERT](https://colab.research.google.com/github/deepmipt/dp_tutorials/blob/master/Tutorial_2_DeepPavlov_BERT_transfer_learning.ipynb)
 
+[(colab) ruGPT-3 finetuning](https://colab.research.google.com/drive/1bwNxmVJMJ3x_N5ylS-nylkQpHUAF0DES)
+
+[(colab) ruGPT-3 finetuning 2](https://colab.research.google.com/github/sberbank-ai/ru-gpts/blob/master/examples/Finetune_RuGPTs_with_HF.ipynb#scrollTo=aZ-4Kav28cH0)
 
 # Authors
-Advisor: Dmitry Ilvovsky
 
-students:
 Alexander Romanov
 Renat Nurtdinov
+
+Advisor: Dmitry Ilvovsky
 
 HSE FCS
