@@ -59,6 +59,7 @@ and their Compositionality](https://papers.nips.cc/paper/2013/file/9aa42b31882ec
 # Authors
 
 Alexander Romanov
+
 Renat Nurtdinov
 
 Advisor: Dmitry Ilvovsky
