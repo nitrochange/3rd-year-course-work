@@ -1,9 +1,8 @@
 This study is completed as a 3rd year course project.
 
+# Data
 
-Bank text corpus is on /corpus/*
-
-# Demo
+Bank text corpus and bank dictionary are at /corpus/*
 
 # Our study
 
@@ -25,7 +24,9 @@ Bank text corpus is on /corpus/*
 
 # Report
 
+Reports are at /reports/* and on google drive:
 [first part](https://drive.google.com/file/d/1Z349bhJFWLVtu75qE9yOWITdHQwszdAE/view?usp=sharing)
+[second part](https://drive.google.com/file/d/1riipr_VQ1O-0djz2_WnqmWID1rsepUUO/view?usp=sharing)
 
 # References
 
