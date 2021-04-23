@@ -25,7 +25,7 @@ Bank text corpus is on /corpus/*
 
 # Report
 
-[first part] (https://drive.google.com/file/d/1Z349bhJFWLVtu75qE9yOWITdHQwszdAE/view?usp=sharing)
+[first part](https://drive.google.com/file/d/1Z349bhJFWLVtu75qE9yOWITdHQwszdAE/view?usp=sharing)
 
 # References
 
